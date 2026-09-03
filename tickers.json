@@ -1,0 +1,28 @@
+{
+  "yahoo_tickers": {
+    "AAPL": "Apple Inc.",
+    "MSFT": "Microsoft Corporation",
+    "GOOGL": "Alphabet Inc. (Google)",
+    "AMZN": "Amazon.com Inc.",
+    "NVDA": "NVIDIA Corporation",
+    "TSLA": "Tesla Inc.",
+    "META": "Meta Platforms Inc.",
+    "SPY": "SPDR S&P 500 ETF Trust",
+    "QQQ": "Invesco QQQ Trust",
+    "BTC-USD": "Bitcoin USD",
+    "ETH-USD": "Ethereum USD",
+    "GC=F": "Gold Futures",
+    "CL=F": "Crude Oil Futures",
+    "ILS=X": "USD/ILS"
+  },
+  "fred_series": {
+    "GDP": "Gross Domestic Product",
+    "UNRATE": "Unemployment Rate",
+    "CPIAUCSL": "Consumer Price Index for All Urban Consumers",
+    "FEDFUNDS": "Federal Funds Effective Rate",
+    "DGS10": "10-Year Treasury Constant Maturity Rate",
+    "M2SL": "M2 Money Supply",
+    "PCE": "Personal Consumption Expenditures",
+    "INDPRO": "Industrial Production Index"
+  }
+}
