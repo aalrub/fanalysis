@@ -1,0 +1,53 @@
+/* Custom Global Styles for Streamlit App */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Metric Card Custom Styling */
+div[data-testid="stMetricValue"] {
+    font-size: 1.8rem !important;
+    font-weight: 700;
+    color: #1f77b4;
+}
+
+/* Custom Navigation Header Banner */
+.header-banner {
+    background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%);
+    padding: 18px 25px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.header-banner h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #ffffff;
+}
+
+.header-banner p {
+    margin: 5px 0 0 0;
+    font-size: 0.95rem;
+    opacity: 0.85;
+}
+
+/* Regression Alert Callout Boxes */
+.alert-box {
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-size: 0.95rem;
+}
+
+.alert-warning {
+    background-color: #fff3cd;
+    border-left: 5px solid #ffc107;
+    color: #856404;
+}
+
+.alert-info {
+    background-color: #d1ecf1;
+    border-left: 5px solid #17a2b8;
+    color: #0c5460;
+}
